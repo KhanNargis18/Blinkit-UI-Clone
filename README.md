@@ -12,14 +12,14 @@
 ## Screenshots
 
 ### Deskop View
-<img src="![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55)" width="100%" />
+<img src="![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55)" width="400" />
 
 
 ### Tablet View
 <img src="![tablet-black](https://github.com/user-attachments/assets/d3bc31f6-a777-47e5-a9a3-d11182aba1f4)" width="70%" />
 
 ### Mobile View
-<img src="![mobile-black](https://github.com/user-attachments/assets/4c661cd8-73e7-457a-a537-af5e03ec393d)" width="30%" />
+<img src="![mobile-black](https://github.com/user-attachments/assets/4c661cd8-73e7-457a-a537-af5e03ec393d)" width="50%" />
 
 ## Features
 
