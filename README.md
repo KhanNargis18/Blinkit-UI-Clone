@@ -1,7 +1,7 @@
 <h1 align="center"> Blinkit UI Clone</h1>
 
 <p align="center">
-  <img src="![all-devices-black](https://github.com/user-attachments/assets/fc181abd-c8a2-402a-b84d-165767c256ae)" alt="Blinkit UI Banner" />
+  "![all-devices-black](https://github.com/user-attachments/assets/fc181abd-c8a2-402a-b84d-165767c256ae)
 </p>
 
 <p>A frontened clone of the <strong>Blinkit</strong> grocery delivery homepage built with HTML5 and CSS3. This project focuses on layout design, responsive UI, and clean Styling using media queries. It showcases my ability to convert real-world designs into functional and mobile-friendly code.</p>
