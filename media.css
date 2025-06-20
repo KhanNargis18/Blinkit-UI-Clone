@@ -1,0 +1,126 @@
+/*Mobile View*/
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+
+    /*Navbar*/
+    header{
+        flex-direction: column;
+        align-items: stretch;
+        padding: 10px;
+        gap: 15px;
+    }
+    .headerLeft{
+        justify-content: center;
+    }
+    .logo{
+        padding: 10px;
+    }
+    .headerAddress{
+        padding: 10px;
+    }
+    .headerAddress p{
+        font-size: 12px;
+    }
+    .headerAddress h3{
+        font-size: 15px;
+    }
+    .searchBox button{
+        padding: 10px;
+    }
+    .headerBtn{
+        position: fixed;
+        width: 100%;
+        background-color: white;
+        margin-right: 0px;
+        justify-content: center;
+        bottom: 0px;
+    }
+
+    /*Banner Section*/
+    .bannerSection{
+        display: none;
+    }
+    .orderBanner{
+        padding: 10px;
+        flex-direction: column;
+    }
+
+    /*Category Section*/
+    .categoryItems{
+        flex-basis: 25%;
+    }
+
+    /*Product Section*/
+    .productSection{
+        padding: 30px 10px;
+    }
+    .productItems{
+        flex-basis: 49%;
+    }
+
+    /*Footer Section*/
+    footer{
+        padding-top: 0px;
+    }
+    .footer-mid-row1-left{
+        flex-basis: 100%;
+    }
+    .footer-mid-row1{
+        flex-basis: 15%;
+        padding: 10px;
+        flex-direction: column;
+    }
+    .FooterLink_Lists li a{
+        flex-basis: 48%;
+    }
+
+    .footer-mid-row3{
+        padding: 0px 10px;
+    }
+    .footer-mid-row3 p{
+        margin-bottom: 50px;
+    }
+    .footer-mid-row2{
+        gap: 20px;
+        flex-direction: column;
+    }
+}
+
+
+/*Tablet View*/
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    .categoryItems{
+        flex-basis: 20%;
+    }
+    /*Product Section*/
+    .productSection{
+        padding: 6px;
+    }
+    .productItems{
+        flex-basis: 32%;
+    }
+
+    /*Footer Section*/
+    .footer-mid-row1-left h3{
+        padding-left: 8px;
+    }
+    .useFulLinks{
+        padding-left: 8px;
+    }
+    .footer-mid-row2  p{
+        flex-basis: 35%;
+    }
+    .appIcons{
+        flex-basis: 35%;
+    }
+    .appIcons h5{
+        font-size: 15px;
+    }
+    .appIcons img{
+        padding-right: 5px;
+    }
+    .footer-mid-row3{
+        padding: 10px;
+    }
+}
