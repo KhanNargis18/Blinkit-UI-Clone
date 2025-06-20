@@ -12,7 +12,7 @@
 ## Screenshots
 
 ### Deskop View
-<img src="![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55)" width="80px" height="80px" />
+<img src="![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55)" width="100px" height="100px" />
 
 
 ### Tablet View
