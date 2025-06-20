@@ -12,7 +12,8 @@
 ## Screenshots
 
 ### Deskop View
-<img src="![laptop (1)](https://github.com/user-attachments/assets/2f999e2d-bbd5-43d0-8978-5b037d5d8b27)" alt="Desktop View
+![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55) width="100px" height="100px"
+
 
 ### Tablet View
 <img src="![tablet-black](https://github.com/user-attachments/assets/d3bc31f6-a777-47e5-a9a3-d11182aba1f4)" alt="Tablet View
