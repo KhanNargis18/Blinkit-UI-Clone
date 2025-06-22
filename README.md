@@ -7,17 +7,15 @@
 ## Live Preview
 **Check it out here--** [ https://blinkituiclone.vercel.app ]
 
-## Screenshots
+### Deskop Product Page View
+![Image](https://github.com/user-attachments/assets/1c3e54ca-b2ef-4db3-8cae-94234c2deaaa)
+
 
-### Deskop View
-<img src="![laptop (1)](https://github.com/user-attachments/assets/d9572ff5-3d0b-4e19-9724-8a138d093c55)" width="400" />
+### Tablet Product Page View
+![Image](https://github.com/user-attachments/assets/f29845ad-6069-4b82-af89-51e574e6ca12)
 
-
-### Tablet View
-<img src="![tablet-black](https://github.com/user-attachments/assets/d3bc31f6-a777-47e5-a9a3-d11182aba1f4)" width="70%" />
-
-### Mobile View
-<img src="![mobile-black](https://github.com/user-attachments/assets/4c661cd8-73e7-457a-a537-af5e03ec393d)" width="50%" />
+### Mobile Product Page View
+![Image](https://github.com/user-attachments/assets/a78cd66f-8380-444d-9a6b-3e1d5574c8d4)
 
 ## Features
 
