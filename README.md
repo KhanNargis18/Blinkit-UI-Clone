@@ -35,3 +35,10 @@
 ### Mobile Product Page View
 
 ![Image](https://github.com/user-attachments/assets/a78cd66f-8380-444d-9a6b-3e1d5574c8d4)
+
+
+<h4>🔍 What This Project Proves:</h4>
+<b>This Blinkit UI Clone proves my ability to:</b>
+<li>Build real-world inspired interfaces using only vanilla web technologies</li>
+<li>Maintain design consistency and layout integrity</li>
+<li>Develop scalable HTML/CSS code that adapts well to different screen sizes</li>
