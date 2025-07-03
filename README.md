@@ -15,7 +15,7 @@
 
 
 ## Live Preview
-**Check it out here--** [ https://blinkituiclone.vercel.app ]
+**Check it out here--** [https://blinkit-ui-clone.vercel.app/]
 
 
 ### Screenshots
