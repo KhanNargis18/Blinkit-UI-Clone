@@ -1,4 +1,5 @@
 <h1 align="center"> Blinkit UI Clone</h1>
+<p align="center">HTML & CSS</p>
 
 ![Image](https://github.com/user-attachments/assets/f2df3d78-d15d-462e-9041-e95bfe1cf333)
 
