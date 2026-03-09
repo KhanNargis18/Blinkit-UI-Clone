@@ -43,3 +43,5 @@
 <li>Build real-world inspired interfaces using only vanilla web technologies</li>
 <li>Maintain design consistency and layout integrity</li>
 <li>Develop scalable HTML/CSS code that adapts well to different screen sizes</li>
+
+https://drive.google.com/file/d/1wvyZiE7t-2NU7irbHjotwKwtpJjzMTkU/view?usp=drivesdk
