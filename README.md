@@ -43,11 +43,3 @@
 <li>Build real-world inspired interfaces using only vanilla web technologies</li>
 <li>Maintain design consistency and layout integrity</li>
 <li>Develop scalable HTML/CSS code that adapts well to different screen sizes</li>
-
-teacher
-https://drive.google.com/file/d/1wvyZiE7t-2NU7irbHjotwKwtpJjzMTkU/view?usp=drivesdk
-
-word
-https://drive.google.com/file/d/1tfmKw_wy9H3-YmebubGD6TIC0xC_pCR3/view?usp=drivesdk
-
-https://drive.google.com/file/d/1Om72_a1xqkgrhlAweo6cMqDsucQH5xXY/view?usp=drivesdk
